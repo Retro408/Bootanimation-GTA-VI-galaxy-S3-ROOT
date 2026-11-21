@@ -17,4 +17,4 @@ successivamente modificare le autorizzazioni del file andando sui 3 puntini in a
 e sulla colonna "Scrittura" deselezionare "Gruppo" e "Altri" cliccare su ok riavviare il telefono e hai fatto! :)
 ---
 ---
-!!!ATTENZIONE!!! questo progetto è a scopo di modding ed intrattenimento tutti i diritti riservati a *Grand Theft Auto* e Rockstar Games
+!!!ATTENZIONE!!! questo progetto è a scopo di modding e divertimento tutti i diritti riservati a *Grand Theft Auto* e Rockstar Games
