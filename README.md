@@ -8,13 +8,13 @@ questa bootanimation come detto prima l'ho fatta per il mio galaxy s3 (GT-I9300)
 con un programma come "NOTEPAD++" è possibile modificare i valori di altezza e larghezza della bootanimation in base al vostro dispositivo
 ---
 ---
-per sostituire il file "bootanimation.zip" originale del telefono occore copiare il file mio
+per sostituire il file "bootanimation.zip" originale del telefono occorre copiare il file 
 copiarlo su una SD card o sulla memoria del telfono tramite cavo USB
 aprire l'app "Root Explorer" andare a questo percorso: system/media e fare un backup deò file "bootanimation.zip" orignale del telefono 
 sul vostro pc o sul telefono stesso o sulla SD card o dove volete voi
-copiare il file "bootanimation.zip" quello mio sempre su system/media ed incollarlo
-successivamente modificare le autorizzazioni del file andando sui 3 puntini in alto a destra(prima selezionare il file stesso)
+copiare il file "bootanimation.zip" sempre su system/media ed incollarlo,
+successivamente modificare le autorizzazioni del file prima selezionando,andare sui 3 puntini in alto a destra
 e sulla colonna "Scrittura" deselezionare "Gruppo" e "Altri" cliccare su ok riavviare il telefono e hai fatto! :)
 ---
 ---
-!!!ATTENZIONE!!! questo progetto è a scopo di modding e divertimento tutti i diritti riservati a *Grand Theft Auto* e Rockstar Games
+!!!ATTENZIONE!!! questo progetto è a scopo di modding e divertimento tutti i diritti sono riservati a *Grand Theft Auto* e Rockstar Games
